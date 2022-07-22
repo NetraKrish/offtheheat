@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "burger",
+        "price": 4.99,
+        "image": { "fields": { "file": { "url": "./images/burger.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "hotdog",
+        "price": 2.99,
+        "image": { "fields": { "file": { "url": "./images/hotdog.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "french fries",
+        "price": 2.49,
+        "image": { "fields": { "file": { "url": "./images/frenchfries.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "onion rings",
+        "price": 3.49,
+        "image": { "fields": { "file": { "url": "./images/on.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "chicken nuggets",
+        "price": 4.99,
+        "image": { "fields": { "file": { "url": "./images/nugge.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "potato wedges",
+        "price": 3.49,
+        "image": { "fields": { "file": { "url": "./images/wedges.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "cool drinks",
+        "price": 4.99,
+        "image": { "fields": { "file": { "url": "./images/cooldrinks.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "pizza",
+        "price": 5.99,
+        "image": { "fields": { "file": { "url": "./images/pizza.jfif" } } }
+      }
+    }
+  ]
+}
