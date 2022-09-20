@@ -74,9 +74,9 @@ class UI
         let tempTotal=0;
         let itemsTotal=0;
         cart.forEach(it=>{itemsTotal+=it.amount});
-        console.log(itemsTotal);
+        
         cart.forEach(ite=>tempTotal+=ite.price*ite.amount)
-        console.log(tempTotal);
+        
         cartTotal.innerText=parseFloat(tempTotal.toFixed(2));
     cartItems.innerText=itemsTotal;    }
     addCartItem(item)
